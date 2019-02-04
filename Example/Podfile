@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RWVideo_Example' do
+  pod 'RWVideo', :path => '../'
+
+  target 'RWVideo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
