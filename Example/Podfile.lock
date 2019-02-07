@@ -1,0 +1,16 @@
+PODS:
+  - RWVideo (0.1.0)
+
+DEPENDENCIES:
+  - RWVideo (from `../`)
+
+EXTERNAL SOURCES:
+  RWVideo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RWVideo: 623482b29fd587010c498b0fb50f1da1f2fca674
+
+PODFILE CHECKSUM: 44dab80989671aeeaa0d76efb929a9ce9f065fab
+
+COCOAPODS: 1.5.3

@@ -28,9 +28,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		356CB2D5731A487BA1FB4A00 /* RWVideo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = RWVideo.podspec; path = ../RWVideo.podspec; sourceTree = "<group>"; };
+		356CB2D5731A487BA1FB4A00 /* RWVideo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RWVideo.podspec; path = ../RWVideo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3FD2DC709C05232E568FF322 /* Pods-RWVideo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RWVideo_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-RWVideo_Example/Pods-RWVideo_Example.release.xcconfig"; sourceTree = "<group>"; };
-		42345CB60FE302E41483FBC8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		42345CB60FE302E41483FBC8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		521B1C1549527C1C8FCDC55C /* Pods-RWVideo_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RWVideo_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RWVideo_Example/Pods-RWVideo_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		5DF23DB306CA39B7A5954B8C /* Pods-RWVideo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RWVideo_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RWVideo_Tests/Pods-RWVideo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* RWVideo_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RWVideo_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -43,7 +43,7 @@
 		607FACE51AFB9204008FA782 /* RWVideo_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RWVideo_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		730C5BCA6895E82540979957 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		730C5BCA6895E82540979957 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		88126A25F17E999C9017E4C1 /* Pods_RWVideo_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RWVideo_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D75CBEBCA665E2DA15EEEBB3 /* Pods_RWVideo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RWVideo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCB74E5DAED5D40EF89976B5 /* Pods-RWVideo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RWVideo_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RWVideo_Tests/Pods-RWVideo_Tests.release.xcconfig"; sourceTree = "<group>"; };

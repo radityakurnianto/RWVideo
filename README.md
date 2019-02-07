@@ -22,7 +22,7 @@ pod 'RWVideo'
 
 ## Author
 
-radityakurnianto, raditya@detik.com
+radityakurnianto, raditya.kurnianto@gmail.com
 
 ## License
 
