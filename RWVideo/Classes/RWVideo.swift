@@ -51,6 +51,7 @@ open class RWVideo: UIViewController {
         view.backgroundColor = .black
         view.addSubview(videoView)
         videoViewPotraitConstraint()
+        videoView.backgroundColor = .blue
         videoView.layer.insertSublayer(self.avplayerLayer, at: 0)
         
         addObserver()
@@ -60,8 +61,6 @@ open class RWVideo: UIViewController {
         super.viewDidDisappear(true)
         removeObserver()
     }
-    
-    
     
     // MARK: Constraint
     fileprivate func videoViewPotraitConstraint() -> Void {
